@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selfcheer
-- 👀 I’m interested in goland
+- 👀 I’m interested in golang
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
